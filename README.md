@@ -24,8 +24,6 @@ The EEG Data Analysis and Modeling Platform is a comprehensive tool designed for
 - **Interactive Streamlit Interface:**
   - User-friendly interface for easy navigation and visualization of complex EEG analytics.
 
-## Getting Started
-
 ### Prerequisites
 
 - Python
